@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e2ff1bc-e398-45d2-b211-0e9946a06f95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gPoGFm932RzGeZa4J8qhUZwTXF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.3.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.6.0" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="C:\Users\crist\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\202.6948.46\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="globalModule.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/globalModule.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="modules.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/modules.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.modules.js" />
+        <item itemvalue="Node.js.globalModule.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e2ff1bc-e398-45d2-b211-0e9946a06f95" name="Default Changelist" comment="" />
+      <created>1598025490632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598025490632</updated>
+      <workItem from="1598025491775" duration="5755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/person.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="89" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1598028548011">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="536" y="89" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1418.798/1920.0.1241.775@0.0.1418.798" timestamp="1598028548011" />
+    <state width="1374" height="202" key="GridCell.Tab.0.bottom" timestamp="1598049017876">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="202" key="GridCell.Tab.0.bottom/0.0.1418.798/1920.0.1241.775@0.0.1418.798" timestamp="1598049017876" />
+    <state width="1374" height="202" key="GridCell.Tab.0.center" timestamp="1598049017876">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="202" key="GridCell.Tab.0.center/0.0.1418.798/1920.0.1241.775@0.0.1418.798" timestamp="1598049017876" />
+    <state width="1374" height="202" key="GridCell.Tab.0.left" timestamp="1598049017876">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="202" key="GridCell.Tab.0.left/0.0.1418.798/1920.0.1241.775@0.0.1418.798" timestamp="1598049017876" />
+    <state width="1374" height="202" key="GridCell.Tab.0.right" timestamp="1598049017876">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="202" key="GridCell.Tab.0.right/0.0.1418.798/1920.0.1241.775@0.0.1418.798" timestamp="1598049017876" />
+    <state x="218" y="43" key="SettingsEditor" timestamp="1598028421785">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="218" y="43" key="SettingsEditor/0.0.1418.798/1920.0.1241.775@0.0.1418.798" timestamp="1598028421785" />
+    <state x="583" y="243" key="cloudConfig.SelfSettingsDialog" timestamp="1598025525770">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="583" y="243" key="cloudConfig.SelfSettingsDialog/0.0.1418.798/1920.0.1241.775@0.0.1418.798" timestamp="1598025525770" />
+    <state x="371" y="119" width="672" height="678" key="search.everywhere.popup" timestamp="1598028337944">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="371" y="119" width="672" height="678" key="search.everywhere.popup/0.0.1418.798/1920.0.1241.775@0.0.1418.798" timestamp="1598028337944" />
+  </component>
+</project>
