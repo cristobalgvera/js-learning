@@ -1,19 +1,17 @@
 import React from 'react';
 import './App.css';
-import Greet from "./components/Greet/Greet";
-import Counter from "./components/Counter/Counter";
-import FunctionClick from "./components/FunctionClick/FunctionClick";
+import {BrowserRouter} from "react-router-dom";
+import Routes from "./components/Routes";
+import Menu from "./components/Menu";
 
 function App() {
     return (
-        <div className={"App"}>
-            <Greet/>
-            <Counter/>
-            <FunctionClick
-                name={"Test name"}
-                age={8}
-            />
-        </div>
+        <BrowserRouter>
+            <div className={"App"}>
+                <Menu/>
+                <Routes/>
+            </div>
+        </BrowserRouter>
     );
 }
 
